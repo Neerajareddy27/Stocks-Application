@@ -1,0 +1,17 @@
+tensorflow
+nltk
+keras
+numpy
+streamlit
+seaborn
+tweepy
+textblob
+flask
+pandas
+matplotlib
+scikit_learn
+statsmodels
+yfinance
+alpha_vantage
+gunicorn
+
